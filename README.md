@@ -5,14 +5,6 @@
 <h1 align="center">AI Interview ML</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/issues/aryasoni98/AI-Interview-ML" title="logo">
-  <img src="https://img.shields.io/github/issues-pr/aryasoni98/AI-Interview-ML" title="logo">
-  <img src="https://img.shields.io/github/forks/aryasoni98/AI-Interview-ML" title="logo">
-  <img src="https://img.shields.io/github/stars/aryasoni98/AI-Interview-ML" title="logo">
-  <img src="https://img.shields.io/github/license/aryasoni98/AI-Interview-ML" title="logo">
-</p>
-
-<p align="center">
   <img src="https://forthebadge.com/images/badges/check-it-out.svg" title="logo">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" title="logo">
   <img src="https://forthebadge.com/images/badges/built-by-developers.svg" title="logo">
@@ -29,7 +21,7 @@ Selection in big companies requires an aspirant to be proficient in coding as we
 
 # Speech Emotion Recognition [Audio]
 
-![image](https://raw.githubusercontent.com/aryasoni98/AI-Interview/master/Images/Audio.png)
+![image](https://raw.githubusercontent.com/hashtag-longrangers/AI-Interview_Algorithm/master/Images/Audio.png)
 
 The aim of this section is to explore speech emotion recognition techniques from an audio recording.
 
@@ -105,7 +97,7 @@ To limit overfitting during training phase, we split our data set into train (80
 
 The aim of this section is to explore facial emotion recognition techniques from a live webcam video stream.
 
-![image](https://raw.githubusercontent.com/aryasoni98/AI-Interview/master/Images/Audio.png)
+![image](https://raw.githubusercontent.com/hashtag-longrangers/AI-Interview_Algorithm/master/Images/Audio.png)
 
 ## Data
 
